@@ -1,3 +1,5 @@
+//java code to find print an array in spiral order.
+
 import java.util.Scanner;
 
 public class Spiral {	
